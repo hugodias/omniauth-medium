@@ -5,7 +5,7 @@ require 'omniauth/medium/version'
 
 Gem::Specification.new do |spec|
   spec.name          = "omniauth-medium"
-  spec.version       = Omniauth::Medium::VERSION
+  spec.version       = OmniAuth::Medium::VERSION
   spec.authors       = ["Alyssa Ross"]
   spec.email         = ["hi@alyssa.is"]
 
